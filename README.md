@@ -1,2 +1,3 @@
 # FisheririsDataset
-勉強のために作ったIris flower datasetを識別するというもの
+機械学習の勉強のために作ったIris flower datasetを識別するというもの
+SVMの勉強をするため、言語は使い慣れたC#を用いた
